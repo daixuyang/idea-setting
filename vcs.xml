@@ -230,6 +230,10 @@
           <option name="url" value="https://github.com/xcocean/rocketmq-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.101.100:3000" />
+          <option name="userName" value="daixuyang" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="F:\my-project" />
