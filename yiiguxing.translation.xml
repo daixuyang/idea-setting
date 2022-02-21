@@ -1,10 +1,12 @@
 <application>
   <component name="AppStorage">
     <option name="newTranslationDialogHeight" value="412" />
-    <option name="newTranslationDialogWidth" value="774" />
-    <option name="newTranslationDialogX" value="753" />
-    <option name="newTranslationDialogY" value="482" />
+    <option name="newTranslationDialogWidth" value="772" />
+    <option name="newTranslationDialogX" value="973" />
+    <option name="newTranslationDialogY" value="597" />
     <histories>
+      <item value="Bodie" />
+      <item value="Bodies" />
       <item value="Creates a FileInputStream by opening a connection to an actual file, the file named by the File object file in the file system. A new FileDescriptor object is created to represent this file connection. First, if there is a security manager, its checkRead method is called with the path represented by the file argument as its argument. If the named file does not exist, is a directory rather than a regular file, or for some other reason cannot be opened for reading then a FileNotFoundException is thrown." />
       <item value="Error while closing command context" />
       <item value="Variable assigneeList' is not a Collection" />
@@ -53,12 +55,10 @@
       <item value="principal" />
       <item value="This constructor can be safely used by any code that wishes to create a &lt;code&gt;UsernamePasswordAuthenticationToken&lt;code&gt;, as the {@link isAuthenticated()} will return &lt;code&gt;false&lt;code&gt;." />
       <item value="get Principal" />
-      <item value="Consider defining a bean of type 'com.central.oauth.just.ExtendUserDetailsService' in your configuration." />
-      <item value="Due" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="662" />
+        <entry key="CHINESE" value="663" />
         <entry key="ENGLISH" value="662" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="7" />
