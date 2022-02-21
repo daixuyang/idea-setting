@@ -1,0 +1,75 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="412" />
+    <option name="newTranslationDialogWidth" value="774" />
+    <option name="newTranslationDialogX" value="753" />
+    <option name="newTranslationDialogY" value="482" />
+    <histories>
+      <item value="Creates a FileInputStream by opening a connection to an actual file, the file named by the File object file in the file system. A new FileDescriptor object is created to represent this file connection. First, if there is a security manager, its checkRead method is called with the path represented by the file argument as its argument. If the named file does not exist, is a directory rather than a regular file, or for some other reason cannot be opened for reading then a FileNotFoundException is thrown." />
+      <item value="Error while closing command context" />
+      <item value="Variable assigneeList' is not a Collection" />
+      <item value="DELAY" />
+      <item value="RocketMQ Message hasn't been sent. Caused by No route info of this topic, test-group" />
+      <item value="create Hyperlink Run" />
+      <item value="insert New P" />
+      <item value="get Suffix" />
+      <item value="get Prefix" />
+      <item value="get Mime Type" />
+      <item value="peek" />
+      <item value="The output path is not specified for module poiWordUtil" />
+      <item value="PCT" />
+      <item value="NIL" />
+      <item value="get Document Summary Information" />
+      <item value="create Information Properties" />
+      <item value="longitude" />
+      <item value="custom Write Context" />
+      <item value="Could not initialize class org.apache.poi.xssf.usermodel.XSSFWorkbook" />
+      <item value="fill Bean With Map Ignore Case" />
+      <item value="Handler dispatch failed; nested exception is java.lang.NoSuchFieldError" />
+      <item value="use Field Name As Title" />
+      <item value="processing" />
+      <item value="Parameter 0 of constructor in" />
+      <item value="Parameter 0 of constructor in com.central.formsprocesses.controller_dispatch.GlobalCountController required a bean of type 'com.central.formsprocesses.mapper.GlobalCountMapper' that could not be found." />
+      <item value="event Handle Count" />
+      <item value="event Accept Count" />
+      <item value="积分" />
+      <item value="Cannot deserialize instance of `java.util.ArrayList&lt;java.lang.Object&gt;` out of START_OBJECT token" />
+      <item value="hardware" />
+      <item value="security" />
+      <item value="points" />
+      <item value="required" />
+      <item value="ignore Tables" />
+      <item value="enable" />
+      <item value="Committing is not possible because you have unmerged files." />
+      <item value="delegate Task" />
+      <item value="taskId or processInstanceId is required" />
+      <item value="orders" />
+      <item value="add User Identity Link" />
+      <item value="delete Candidate User" />
+      <item value="Owner" />
+      <item value="Candidate" />
+      <item value="No outgoing sequence flow of the exclusive gateway 'Gateway_01p5pmd' could be selected for continuing the process" />
+      <item value="bounded Elastic" />
+      <item value="principal" />
+      <item value="This constructor can be safely used by any code that wishes to create a &lt;code&gt;UsernamePasswordAuthenticationToken&lt;code&gt;, as the {@link isAuthenticated()} will return &lt;code&gt;false&lt;code&gt;." />
+      <item value="get Principal" />
+      <item value="Consider defining a bean of type 'com.central.oauth.just.ExtendUserDetailsService' in your configuration." />
+      <item value="Due" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="662" />
+        <entry key="ENGLISH" value="662" />
+        <entry key="DANISH" value="1" />
+        <entry key="FRENCH" value="7" />
+        <entry key="CORSICAN" value="1" />
+        <entry key="LATIN" value="1" />
+        <entry key="ROMANIAN" value="3" />
+        <entry key="MALAGASY" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1645063930135" />
+  </component>
+</application>

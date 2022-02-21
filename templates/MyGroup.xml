@@ -1,0 +1,24 @@
+<templateSet group="MyGroup">
+  <template name="dxy-cmt" value="/**&#10; *  @author 小代 [ 821531843@qq.com ]&#10; *  @date   $date$ $time$&#10; */" description="添加 类头注释" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <variable name="time" expression="time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="dxy-property" value="/**  */" description="添加 属性注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="dxy-func" value="/**" description="添加 函数注释" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="toList" value=".collect(Collectors.toList())" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

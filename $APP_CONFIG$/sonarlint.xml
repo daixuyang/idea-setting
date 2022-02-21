@@ -1,0 +1,36 @@
+<application>
+  <component name="SonarLintGlobalSettings">
+    <rules>
+      <Rule active="false" key="java:S1871" />
+      <Rule active="false" key="squid:ModifiersOrderCheck" />
+      <Rule active="false" key="squid:S1215" />
+      <Rule active="false" key="squid:S1854" />
+      <Rule active="false" key="squid:S2068" />
+      <Rule active="false" key="squid:S2189" />
+      <Rule active="false" key="squid:S1155" />
+      <Rule active="false" key="squid:S1075" />
+      <Rule active="false" key="squid:S3973" />
+      <Rule active="false" key="java:S2175" />
+      <Rule active="false" key="squid:S2140" />
+      <Rule active="false" key="squid:S3252" />
+      <Rule active="false" key="squid:S4165" />
+      <Rule active="false" key="java:S3864" />
+      <Rule active="false" key="squid:S1192" />
+      <Rule active="false" key="java:S2259" />
+      <Rule active="false" key="java:S3923" />
+      <Rule active="false" key="squid:S1066" />
+      <Rule active="false" key="squid:S1220" />
+      <Rule active="false" key="squid:S2692" />
+      <Rule active="false" key="squid:S1488" />
+      <Rule active="false" key="squid:S1148" />
+      <Rule active="false" key="squid:S3027" />
+      <Rule active="false" key="java:S2184" />
+      <Rule active="false" key="squid:S3422" />
+      <Rule active="false" key="squid:S1168" />
+      <Rule active="false" key="java:S1659" />
+      <Rule active="false" key="java:S5411" />
+      <Rule active="false" key="squid:S1481" />
+      <Rule active="false" key="java:S1117" />
+    </rules>
+  </component>
+</application>
