@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="973" />
     <option name="newTranslationDialogY" value="597" />
     <histories>
+      <item value="protocol = http host = null" />
+      <item value="extract Features" />
       <item value="Need to specify how to reconcile divergent branches." />
       <item value="Bodie" />
       <item value="Bodies" />
@@ -53,13 +55,11 @@
       <item value="Candidate" />
       <item value="No outgoing sequence flow of the exclusive gateway 'Gateway_01p5pmd' could be selected for continuing the process" />
       <item value="bounded Elastic" />
-      <item value="principal" />
-      <item value="This constructor can be safely used by any code that wishes to create a &lt;code&gt;UsernamePasswordAuthenticationToken&lt;code&gt;, as the {@link isAuthenticated()} will return &lt;code&gt;false&lt;code&gt;." />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="663" />
-        <entry key="ENGLISH" value="663" />
+        <entry key="ENGLISH" value="664" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="7" />
         <entry key="CORSICAN" value="1" />
@@ -70,6 +70,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645063930135" />
+    <option name="lastTrimTime" value="1646028299731" />
   </component>
 </application>
