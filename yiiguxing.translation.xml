@@ -1,15 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="You are in 'detached HEAD' state. You can look around, make experimental changes and commit them, and you can discard any commits you make in this state without impacting any branches by switching back to a branch. If you want to create a new branch to retain commits you create, you may do so (now or later) by using -c with the switch command. Example: git switch -c &lt;new-branch-name&gt; Or undo this operation with: git switch - Turn off this advice by setting config variable advice.detachedHead to false HEAD is now at 3f16b0e 信息采集列表页 吸毒人员详情页优化 超脑人脸图片显示" />
       <item value="Grid" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="2" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1645753609657" />
+    <option name="lastTrimTime" value="1646205016664" />
   </component>
 </application>
