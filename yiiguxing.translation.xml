@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="booted" />
       <item value="Could not resolve placeholder 'servers' in value &quot;{servers}&quot;" />
       <item value="An operation is not implemented." />
       <item value="lateinit property services has not been initialized" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
