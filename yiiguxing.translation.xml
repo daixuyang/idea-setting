@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="lass path resource [.class] cannot be opened because it does not exist" />
       <item value="exceed 20 times per minute" />
       <item value="&quot;status&quot;:1111,&quot;wait&quot;:5,&quot;source&quot;:&quot;x5&quot;,&quot;punish&quot;:&quot;deny&quot;,&quot;uuid&quot;:&quot;902a88a41f2b2fb9c740fb3b35bdef7f&quot;,&quot;errcode&quot;: 130101,&quot;errmsg&quot;: &quot;send too fast, exceed 20 times per minute" />
       <item value="booted" />
@@ -15,8 +16,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="10" />
-        <entry key="ENGLISH" value="12" />
+        <entry key="CHINESE" value="11" />
+        <entry key="ENGLISH" value="13" />
       </map>
     </option>
   </component>
