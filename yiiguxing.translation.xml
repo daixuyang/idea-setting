@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="temp" />
       <item value="&quot;errcode&quot;:400201,&quot;errmsg&quot;:&quot;miss param : text&quot;" />
       <item value="lass path resource [.class] cannot be opened because it does not exist" />
       <item value="exceed 20 times per minute" />
@@ -17,12 +18,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1646721654006" />
+    <option name="lastTrimTime" value="1647224481925" />
   </component>
 </application>
