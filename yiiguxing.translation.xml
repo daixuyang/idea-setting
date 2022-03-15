@@ -1,10 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Need to specify how to reconcile divergent branches." />
-      <item value="hint: You have divergent branches and need to specify how to reconcile them. hint: You can do so by running one of the following commands sometime before" />
-      <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
-      <item value="temp" />
+      <item value="Failed to sync settings: https:github.comdaixuyangidea-setting.git: cannot open git-receive-pack" />
       <item value="&quot;errcode&quot;:400201,&quot;errmsg&quot;:&quot;miss param : text&quot;" />
       <item value="lass path resource [.class] cannot be opened because it does not exist" />
       <item value="exceed 20 times per minute" />
@@ -21,12 +18,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="19" />
+        <entry key="CHINESE" value="13" />
+        <entry key="ENGLISH" value="15" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647224481925" />
+    <option name="lastTrimTime" value="1647322125179" />
   </component>
 </application>
