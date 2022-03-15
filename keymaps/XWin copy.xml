@@ -3,4 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="VimPluginToggle">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
 </keymap>
