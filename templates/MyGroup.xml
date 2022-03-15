@@ -21,4 +21,9 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="toString" value="@Override&#10;public String toString() {&#10;    return ToStringBuilder.reflectionToString(this, ToStringStyle.MULTI_LINE_STYLE);&#10;}" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
