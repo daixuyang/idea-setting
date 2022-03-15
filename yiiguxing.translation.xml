@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Need to specify how to reconcile divergent branches." />
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="temp" />
       <item value="&quot;errcode&quot;:400201,&quot;errmsg&quot;:&quot;miss param : text&quot;" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
