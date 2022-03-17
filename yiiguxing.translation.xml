@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="SAX Feature unsupported [log suppressed for 5 minutes]" />
       <item value="No qualifying bean of type 'com.central.formsprocesses.feign.UaaService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {}" />
       <item value="Failed to sync settings: https:github.comdaixuyangidea-setting.git: cannot open git-receive-pack" />
       <item value="&quot;errcode&quot;:400201,&quot;errmsg&quot;:&quot;miss param : text&quot;" />
@@ -19,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="14" />
-        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE" value="15" />
+        <entry key="ENGLISH" value="17" />
       </map>
     </option>
   </component>
