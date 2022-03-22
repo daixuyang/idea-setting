@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="身份证" />
       <item value="async" />
       <item value="resizable" />
       <item value="SAX Feature unsupported [log suppressed for 5 minutes]" />
@@ -22,7 +23,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
+        <entry key="CHINESE" value="18" />
         <entry key="ENGLISH" value="19" />
       </map>
     </option>
