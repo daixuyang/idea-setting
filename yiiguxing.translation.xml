@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Committer identity unknown Please tell me who you are." />
       <item value="Code MiniMap Embeds a code minimap similar to the one found in SublimeAtom into the editor pane. Works with both light and dark themes using your customized colors for syntax highlighting. This plugin is a separated update of the original project CodeGlance that seemingly no longer updated. Please mind that this plugin can be removed from the marketplace any time by the original author's request. Original CodeGlance author: 'Vektah(adam@vektah.net)', 'https:github.comvektahCodeGlance'" />
       <item value="analyze" />
       <item value="身份证" />
@@ -26,11 +27,11 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="20" />
+        <entry key="ENGLISH" value="21" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1647916340902" />
+    <option name="lastTrimTime" value="1648429567566" />
   </component>
 </application>
