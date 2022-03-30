@@ -251,15 +251,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://gitee.com/joolun/JooLun-wx.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
           <option name="url" value="http://192.168.101.100:3000/root/number-city-formsprocesses.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="http://192.168.101.100:3000/root/number-city-hkxl.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.101.100:3000/root/smart-community-baseinfo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
