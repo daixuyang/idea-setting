@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="interceptor" />
+      <item value="Table Logic" />
       <item value="Switched to a new branch 'ld' Reset branch 'ld'" />
       <item value="discard long time none received connection." />
       <item value="Committer identity unknown Please tell me who you are." />
@@ -28,12 +30,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1648429567566" />
+    <option name="lastTrimTime" value="1648869281643" />
   </component>
 </application>
