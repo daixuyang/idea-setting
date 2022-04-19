@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="last block incomplete in decryption" />
       <item value="nucleic" />
       <item value="feedback" />
       <item value="detection Dates" />
@@ -35,12 +36,12 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1649640060987" />
+    <option name="lastTrimTime" value="1650345229670" />
   </component>
 </application>
