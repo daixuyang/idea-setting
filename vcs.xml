@@ -278,6 +278,14 @@
           <option name="url" value="https://gitee.com/code-life/DevOps.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.254:3000/root/number-city-applets-job-wx/branches.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.1.254:3000/root/number-city-applets-job-wx.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\IdeaProjects" />
