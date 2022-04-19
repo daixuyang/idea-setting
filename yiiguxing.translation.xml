@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="command" />
       <item value="last block incomplete in decryption" />
       <item value="nucleic" />
       <item value="feedback" />
@@ -36,8 +37,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="30" />
-        <entry key="ENGLISH" value="31" />
+        <entry key="CHINESE" value="31" />
+        <entry key="ENGLISH" value="32" />
       </map>
     </option>
   </component>
